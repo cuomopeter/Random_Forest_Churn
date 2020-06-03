@@ -4,3 +4,31 @@
 <br />
 
 ![](Pictures/Capture1.PNG)
+
+<br />
+
+![](Pictures/Capture2.PNG)
+
+<br />
+
+![](Pictures/Capture3.PNG)
+
+<br />
+
+![](Pictures/Capture4.PNG)
+
+<br />
+
+![](Pictures/Capture5.PNG)
+
+<br />
+
+![](Pictures/Capture6.PNG)
+
+<br />
+
+![](Pictures/Capture7.PNG)
+
+<br />
+
+![](Pictures/Capture8.PNG)
