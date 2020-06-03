@@ -2,7 +2,9 @@
  ### Data exploration and random forest analysis on Telecom data
  
 <br />
- ### No borrowed code except for confusion matrix
+
+### Conclusion: 9% increased precision in identifying customers who churned, after data cleaning and exploration
+ No borrowed code except for confusion matrix
 
 <br />
 
