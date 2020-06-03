@@ -1,6 +1,7 @@
 # Random_Forest_Churn
- Data exploration and random forest analysis on Telecom data
+ ### Data exploration and random forest analysis on Telecom data
  
+<br />
  ### No borrowed code except for confusion matrix
 
 <br />
