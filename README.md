@@ -5,7 +5,9 @@
  * Treatment bias discovered (image 6)
 
 <br />
+
 ### Image 1
+
 ![](Pictures/Capture1.PNG)
 
 <br />
